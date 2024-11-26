@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-df = pd.read_csv(r"C:\Users\hetba\Downloads\Download Data\indian_census\merge_india_census.csv")
+df = pd.read_csv(r"C:\Users\hetba\OneDrive\Desktop\Work\Datascience\pythonPro\india_Analysis\merge_india_census.csv")
 
 
 
